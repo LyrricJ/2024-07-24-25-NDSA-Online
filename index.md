@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "NSF National Data Science Alliance"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "[https://us02web.zoom.us/meeting/register/tZ0rcOuqrD8sHNRL1hCRAhjSjktzfF7D_Tw3#/registration]"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "[Online]"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -99,6 +99,8 @@ skills to researchers.
   <em>
   <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
 Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
+  </em>
+   <strong>NSF Acknowledgement of Support and Disclaimer: This material is based upon work supported by the National Science Foundation under Grant No. 2217346. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
   </em>
 </p>
 {% if site.carpentry == "swc" %}
