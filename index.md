@@ -100,6 +100,7 @@ skills to researchers.
   <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
 Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
   </em>
+  </p>
    <strong>NSF Acknowledgement of Support and Disclaimer: This material is based upon work supported by the National Science Foundation under Grant No. 2217346. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
   </em>
 </p>
