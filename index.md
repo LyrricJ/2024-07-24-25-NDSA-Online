@@ -103,7 +103,8 @@ Sign up to receive future editions and read our full archive: <a href="https://c
   </p>
    <strong>NSF Acknowledgement of Support and Disclaimer: This material is based upon work supported by the National Science Foundation under Grant No. 2217346. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
   </em>
-</p>
+  </p>
+     
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
